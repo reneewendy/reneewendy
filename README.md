@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @reneewendy
-- 👀 I’m interested in updating my big humor website.
-- 🌱 I’m currently learning 'css for js developers' by joshwcomeau
-- 💞️ I’m preparing to collaborate by auditing Kent C Dobbs' makeapullrequest.com
-- 📫 Reach me at https://darwinawards.substack.com/
+- 👋  I am @reneewendy
+- 👀  I am fullstack webdev'ing my big humor website.
+- 🌱  Trending: 'css for js developers' by adorable https://joshwcomeau.com
+- 💞️  Preparing to collaborate on github: makeapullrequest.com
+- 📫  Reach me at https://darwinawards.substack.com/
