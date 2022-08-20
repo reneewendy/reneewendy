@@ -1,5 +1,7 @@
-- 👋 . I am @reneewendy
-- 👀 . Webdev of a big humor website.
-- 🌱 . Trending: 'css for js developers' by magician https://joshwcomeau.com
-- 💞️ . Preparing to collaborate on github: makeapullrequest.com
-- 📫 . Reach me at https://darwinawards.substack.com/
+- 🌼 . I am @reneewendy
+- 💚 . Webdev: [The Darwin Awards!](https://darwinawards.com)
+- 🌱 . Bookmarked: **[css for js developers](https://joshwcomeau.com)** by Josh W Comeau
+- 🛠 . School: This semester, LINUX at SMCCD.
+- 📌 . Contact: Via [Substack](https://darwinawards.substack.com/)
+- 📌 . Contact: Via [Twitter](https://twitter.com/DarwinAwards)
+- 📌 . Contact: Via [Facebook](https://facebook.com/thedarwinawards/)
